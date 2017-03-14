@@ -1,0 +1,11 @@
+﻿  TCPServerUtility.c
+c:\cygwin\home\user19\study\socket\tcpsocket\tcpecho\tcpecho\tcpserverutility.c(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'sys/socket.h': No such file or directory
+  AddressUtility.c
+c:\cygwin\home\user19\study\socket\tcpsocket\tcpecho\tcpecho\addressutility.c(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'arpa/inet.h': No such file or directory
+  TCPEchoServer4.c
+c:\cygwin\home\user19\study\socket\tcpsocket\tcpecho\tcpechoserver4.c(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'unistd.h': No such file or directory
+  TCPEchoClient4.c
+c1 : fatal error C1083: 소스 파일을 열 수 없습니다. '..\TCPEchoClient4.c': No such file or directory
+  DieWithMessage.c
+c1 : fatal error C1083: 소스 파일을 열 수 없습니다. '..\DieWithMessage.c': No such file or directory
+  코드를 생성하고 있습니다...
